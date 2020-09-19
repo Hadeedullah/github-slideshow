@@ -3,5 +3,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+be open to everything be attached to nothing
 Use the left arrow to go back!
